@@ -1,0 +1,17 @@
+Algoritmo "DETECTA VELHICE alterado"
+
+Var
+IDADE: INTEIRO
+
+Inicio
+
+ESCREVA("INFORME SUA IDADE: ")
+LEIA(IDADE)
+
+SE(IDADE > 70)ENTAO
+     ESCREVA("É VELHO DEMAIS")
+SENAO
+     ESCREVA ("E MOVO DE MAIS")
+         
+FIMSE
+Fimalgoritmo
